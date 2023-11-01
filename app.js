@@ -1,0 +1,1 @@
+console.log("ES6 Execuation is very simple!!!!");
